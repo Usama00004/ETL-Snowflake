@@ -5,8 +5,12 @@ This project demonstrates how to set up **Apache Airflow in Docker** and use it 
 1. Creates a table in Snowflake.  
 2. Inserts sample records into the table.  
 
----
+-
 
+## Project Architecture
+
+![Portfolio Screenshot](Images/Project_Architecture.jpg) 
+-
 ## 🚀 Project Overview  
 
 - **Airflow** is containerized with **Docker Compose**.  
@@ -15,7 +19,7 @@ This project demonstrates how to set up **Apache Airflow in Docker** and use it 
   1. Create a target table in Snowflake (if not exists).  
   2. Insert multiple rows of sample data into the table.  
 
----
+-
 
 ## 📂 Project Structure  
 
